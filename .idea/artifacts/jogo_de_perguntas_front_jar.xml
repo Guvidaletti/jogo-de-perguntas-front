@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="jogo-de-perguntas-front:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jogo_de_perguntas_front_jar</output-path>
+    <root id="archive" name="jogo-de-perguntas-front.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="jogo-de-perguntas-front" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-mapper-asl/1.8.5/jackson-mapper-asl-1.8.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/codehaus/jackson/jackson-core-asl/1.8.5/jackson-core-asl-1.8.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
